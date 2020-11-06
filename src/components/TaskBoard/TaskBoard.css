@@ -1,0 +1,11 @@
+
+.BoardContainer1{
+margin:auto;
+width:70%;
+height:100%;
+display:flex;
+justify-content:space-between;
+grid-row:3/4;
+grid-column:1/1;
+ }
+
